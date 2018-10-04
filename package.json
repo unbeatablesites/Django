@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/nyt-react.git"
+    "url": "git+https://github.com/unbeatablesites/Django"
   },
-  "author": "tomtom28",
+  "author": "Frank",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/nyt-react/issues"
+    "url": "https://github.com/unbeatablesites/Django/issues"
   },
-  "homepage": "https://github.com/tomtom28/nyt-react#readme",
+  "homepage": "https://github.com/unbeatablesites/Django#readme",
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
